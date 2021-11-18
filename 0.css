@@ -53,5 +53,7 @@ p{
     width: 910px;
 }
 .under{
-    transform: translate(0%,-45%);
+    transform: translate(0%,-30%);
+    width: auto;
+    height: 500px;
 }
